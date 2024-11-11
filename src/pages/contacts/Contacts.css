@@ -1,0 +1,147 @@
+.contacts_page{
+    margin: 55px auto 0;
+    width: 100%;
+}
+.contacts_top-img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contacts_top{
+    position: relative;
+}
+
+.contacts_message{
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+}
+.message_btn{
+    color: #ffffff;
+    font-size: 18px;
+    padding: 25px;
+    border: 2px solid #ffffff;
+}
+.contacts_content{
+    max-width: 1440px;
+    padding: 0 20px;
+    margin: 40px auto;
+}
+.contacts_content-text{
+    font-size: 18px;
+    line-height: 1.3;
+    margin-bottom: 10px;
+}
+.contacts_links{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    gap: 10px;
+}
+.contacts_link{
+    display: flex;
+    align-items: center;
+}
+.contacts_social{
+    margin-right: 5px;
+}
+.contacts_price-guide{
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.contacts_price-items{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+}
+.contacts_price-item{
+    width: 300px;
+    padding: 30px 10px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #ffffff;
+}
+.contacts_price-item:nth-child(1){
+    border-top: solid 10px #154875;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.contacts_price-item:nth-child(2){
+    border-top: solid 10px #C41E3A;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.contacts_price-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.contacts_price-text{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.contacts_price-time{
+    margin-bottom: 10px;
+}
+.contacts_price-price{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.contacts_price-link1,
+.contacts_price-link2{
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+.contacts_price-link1{
+    background-color: #154875;
+    padding: 15px 0;
+    border-radius: 5px;
+}
+.contacts_price-link1:hover{
+    background-color: #29679e;
+}
+.contacts_price-link2{
+    background-color: #C41E3A;
+    padding: 15px 0;
+    border-radius: 5px;
+}
+.contacts_price-link2:hover{
+    background-color: #e1304e;
+}
+.contacts_price-subtitle{
+    font-size: 14px;
+}
+
+
+
+.contacts_bottom-img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 1280px) {
+    .contacts_page{
+        margin: 75px auto 0;
+    }
+}
+@media (max-width: 480px) {
+    .contacts_price-items{
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}

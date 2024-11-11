@@ -1,0 +1,56 @@
+html{
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+        box-sizing: inherit; 
+      
+}
+h1, h2, h3, h4, h5, h6{
+  font-weight: 600;
+}
+html,
+body {
+  font-family: "Abel", sans-serif;
+  scroll-behavior: smooth;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #000000;
+  background-color: #f7f7f7;
+
+}
+#root{
+  min-height: 100vh;
+}
+.App{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+a {
+  text-decoration: none;
+  color: inherit; 
+}
+ul {
+  list-style: none;
+}
+button {
+  font-family: "Abel", sans-serif;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+.container{
+  max-width: 1440px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.page_title{
+  margin: 90px auto 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+}

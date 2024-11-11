@@ -1,0 +1,35 @@
+.photo_row-1{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.photo_row-1_img{
+    width: 100%;
+    object-fit: cover;
+    padding: 15px;
+    border-radius: 25px;
+}
+.photo_row-1_img{
+    filter: grayscale(100%);
+}
+.photo_row-1_img:hover{
+    filter: grayscale(0%);
+}
+
+
+
+
+@media (max-width: 768px) {
+    .photo_row-1_img{
+        padding: 5px;
+    }
+}
+
+@media (max-width: 480px) {
+    .photo_row-1{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .photo_row-1_img{
+        padding: 10px;
+    }
+}
