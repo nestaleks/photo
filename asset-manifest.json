@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/photo/static/css/main.85fb6c88.css",
+    "main.js": "/photo/static/js/main.51a26f5c.js",
+    "static/media/categories_street.jpeg": "/photo/static/media/categories_street.39e12cf984fe61f8c39c.jpeg",
+    "static/media/about-us.jpg": "/photo/static/media/about-us.ae01afbbafb62578083e.jpg",
+    "static/media/top_img.jpeg": "/photo/static/media/top_img.ae01afbbafb62578083e.jpeg",
+    "static/media/slide3.jpeg": "/photo/static/media/slide3.3deed47ed716feb44f50.jpeg",
+    "static/media/slide5.jpeg": "/photo/static/media/slide5.7cd8e57b6931289d66e3.jpeg",
+    "static/media/photorow2_01.jpg": "/photo/static/media/photorow2_01.02636d698d359581972c.jpg",
+    "static/media/photorow2_03.jpg": "/photo/static/media/photorow2_03.3cb83488a8a7cd30e615.jpg",
+    "static/media/photorow2_06.jpg": "/photo/static/media/photorow2_06.0532d101c4cc3642054c.jpg",
+    "static/media/slide1.jpeg": "/photo/static/media/slide1.e052eb3369aca4efba20.jpeg",
+    "static/media/photorow2_05.jpg": "/photo/static/media/photorow2_05.244ac0398a5a1bf845cc.jpg",
+    "static/media/photorow2_04.jpg": "/photo/static/media/photorow2_04.49e565c1fa7412085583.jpg",
+    "static/media/photorow2_02.jpg": "/photo/static/media/photorow2_02.8ba1d0846098615f73ed.jpg",
+    "static/media/categories_studio.jpeg": "/photo/static/media/categories_studio.28c4d51423b5ebb0ecaf.jpeg",
+    "static/media/bottom_img.jpeg": "/photo/static/media/bottom_img.9129706c72072d22c18a.jpeg",
+    "static/media/slide2.jpeg": "/photo/static/media/slide2.e5ab1508c6fc2784c0fb.jpeg",
+    "static/media/categories_nature.jpeg": "/photo/static/media/categories_nature.df1f81717d16112f9464.jpeg",
+    "static/media/categories_restaurants.jpeg": "/photo/static/media/categories_restaurants.48a377de80b039cb7735.jpeg",
+    "static/media/photorow1_01.jpg": "/photo/static/media/photorow1_01.63de45ed079d97a49fa4.jpg",
+    "static/media/categories_milkbath.jpeg": "/photo/static/media/categories_milkbath.432c61976ede19743d8a.jpeg",
+    "static/media/photorow1_02.jpg": "/photo/static/media/photorow1_02.67d70086322fb6924533.jpg",
+    "static/media/slide4.jpeg": "/photo/static/media/slide4.10ebb97326eae135c03b.jpeg",
+    "static/media/photorow1_04.jpg": "/photo/static/media/photorow1_04.33b91d00085c4f5eac59.jpg",
+    "static/media/photorow1_03.jpg": "/photo/static/media/photorow1_03.9914efa83e0bd0d90967.jpg",
+    "static/media/instagram.svg": "/photo/static/media/instagram.f5648ccdab3b77897f14003136c054ab.svg",
+    "index.html": "/photo/index.html",
+    "static/media/mail.svg": "/photo/static/media/mail.eb627b38a45c4087a7666a71b382bdfc.svg",
+    "main.85fb6c88.css.map": "/photo/static/css/main.85fb6c88.css.map",
+    "main.51a26f5c.js.map": "/photo/static/js/main.51a26f5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85fb6c88.css",
+    "static/js/main.51a26f5c.js"
+  ]
+}
